@@ -1,0 +1,48 @@
+{"categories": [
+    {
+        "ypos": 0,
+        "xpos": 0,
+        "name": "shirt",
+        "width": 1000,
+        "clothing": [{
+            "name": "red",
+            "type": "shirt"
+        }],
+        "height": 100
+    },
+    {
+        "ypos": 100,
+        "xpos": 0,
+        "name": "sweater",
+        "width": 1000,
+        "clothing": [{
+            "name": "white",
+            "type": "sweater"
+        }],
+        "height": 100
+    },
+    {
+        "ypos": 200,
+        "xpos": 0,
+        "name": "jacket",
+        "width": 1000,
+        "clothing": [],
+        "height": 100
+    },
+    {
+        "ypos": 300,
+        "xpos": 0,
+        "name": "pants",
+        "width": 1000,
+        "clothing": [],
+        "height": 100
+    },
+    {
+        "ypos": 400,
+        "xpos": 0,
+        "name": "shoes",
+        "width": 1000,
+        "clothing": [],
+        "height": 100
+    }
+]}

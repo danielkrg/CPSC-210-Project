@@ -1,0 +1,60 @@
+{"categories": [
+    {
+        "ypos": 0,
+        "xpos": 0,
+        "name": "shirt",
+        "width": 0,
+        "clothing": [
+            {
+                "name": "testShirt1",
+                "type": "shirt"
+            },
+            {
+                "name": "testShirt2",
+                "type": "shirt"
+            }
+        ],
+        "height": 0
+    },
+    {
+        "ypos": 0,
+        "xpos": 0,
+        "name": "sweater",
+        "width": 0,
+        "clothing": [
+            {
+                "name": "testSweater1",
+                "type": "sweater"
+            },
+            {
+                "name": "testSweater2",
+                "type": "sweater"
+            }
+        ],
+        "height": 0
+    },
+    {
+        "ypos": 0,
+        "xpos": 0,
+        "name": "jacket",
+        "width": 0,
+        "clothing": [],
+        "height": 0
+    },
+    {
+        "ypos": 0,
+        "xpos": 0,
+        "name": "pants",
+        "width": 0,
+        "clothing": [],
+        "height": 0
+    },
+    {
+        "ypos": 0,
+        "xpos": 0,
+        "name": "shoes",
+        "width": 0,
+        "clothing": [],
+        "height": 0
+    }
+]}
